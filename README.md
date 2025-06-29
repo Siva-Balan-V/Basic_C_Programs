@@ -4,8 +4,6 @@ This repository contains a variety of basic C programs that are commonly practic
 
 Whether you're a student learning C for the first time or someone revising the basics, this collection might come in handy.
 
-
-
 ## 📝 List of Programs
 
 Below are the programs included in this repository, with a short note on what each one does:
@@ -78,13 +76,9 @@ gcc factorial.c -o factorial
 Maintained by [Siva Balan](https://github.com/Siva-Balan-V)
 Feel free to explore more projects on my [GitHub profile](https://github.com/Siva-Balan-V).
 
----
-
 ## 🤝 Contributions
 
 If you'd like to contribute improvements or add more basic programs, feel free to fork this repo and open a pull request.
-
----
 
 ## 📄 License
 
